@@ -1,0 +1,20 @@
+HTTP client
+
+* http-conduit
+* http-streams or streams-http or something
+
+XML
+
+* HXT
+* xml-conduit if I'm doing XML
+
+pickle
+
+* cereal
+* binary
+
+iterators
+
+* conduit
+* pipes
+* io-streams
