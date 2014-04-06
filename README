@@ -15,6 +15,18 @@ pickle
 
 iterators
 
-* conduit
+* conduit (most developed)
 * pipes
-* io-streams
+* io-streams (most robust, newest)
+
+docstrings
+
+* Look at Snap
+
+urlparse
+
+* http-types
+
+tests
+
+* HUnit (QuickCheck probably doesn't make sense)
